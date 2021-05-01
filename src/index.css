@@ -153,6 +153,7 @@ li {
   padding: 10px;
   font-size: 15px;
   height: 100px;
+  resize: none;
 }
 
 .tweet-length {
